@@ -1,5 +1,5 @@
 
-![Conifer](https://github.com/Coniferr/Coniferr/blob/main/logo.png)
+![Conifer](https://github.com/Coniferr/Coniferr/blob/main/text.png)
 
 - Hi, I’m @Coniferr
 
