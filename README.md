@@ -1,4 +1,4 @@
-<img src="cinnamon.png" alt="Logo" title="Logo" align="right" width="200" height="200" />
+<img src="cinnamon.png" alt="Logo" title="Logo" align="right" />
 
 # I'm Conifer
 
