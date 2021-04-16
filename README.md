@@ -4,8 +4,8 @@
 
 I am Conifer/Connie I am a web designer from Pittsburgh, PA and I am currently in High School,
 
-<a class="navbar-link" href="https://twitter.com/Conifer_r" style="border: 1px solid #E5E5E5">
-  <div class="navbar-button">
+<a class="navbar-link" href="https://twitter.com/Conifer_r">
+  <div class="navbar-button" style="border: 1px solid #E5E5E5; padding: 5px;">
     <div class="navbar-text">Twitter</div>
   </div>
 </a>
