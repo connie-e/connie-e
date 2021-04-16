@@ -4,9 +4,9 @@
 
 I am Conifer/Connie I am a web designer from Pittsburgh, PA and I am currently in High School,
 
-<a class="navbar-link" href="file:///C:/Users/Qauck/Downloads/Site/links.html">
+<a class="navbar-link" href="https://twitter.com/Conifer_r">
   <div class="navbar-button">
-    <div class="navbar-text">Links</div>
+    <div class="navbar-text">Twitter</div>
   </div>
 </a>
 
