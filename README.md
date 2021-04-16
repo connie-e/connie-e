@@ -1,5 +1,5 @@
 
-![Welcome to my Profile](https://github.com/Coniferr/Coniferr/blob/main/Logo%20copy.png) #Conifer
+![Welcome to my Profile](https://github.com/Coniferr/Coniferr/blob/main/Logo%20copy.png) # Conifer
 
 - Hi, I’m @Coniferr
 
