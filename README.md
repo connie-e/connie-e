@@ -4,11 +4,7 @@
 
 I am Conifer/Connie I am a web designer from Pittsburgh, PA and I am currently in High School,
 
-<a class="navbar-link" href="https://twitter.com/Conifer_r">
-  <div class="navbar-button" style="border: 1px; padding: 5px;">
-    <div class="navbar-text">Twitter</div>
-  </div>
-</a>
+<img src="TwitButton.png" alt="Twitter" /> <img src="SiteButton.png" alt="Site" />
 
 <!---
 Coniferr/Coniferr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
