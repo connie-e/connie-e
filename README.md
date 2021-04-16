@@ -1,10 +1,9 @@
-<img src="PenLogo.png" alt="Logo" title="Logo" align="right" />
 
 # I'm Conifer
 
 I am Conifer/Connie I am a web designer from Pittsburgh, PA and I am currently in High School,
 
-<img src="TwitButton.png" alt="Twitter" /> <img src="SiteButton.png" alt="Site" />
+<img src="TwitButton.png" alt="Twitter" href="https://twitter.com/Conifer_r" /> <img src="SiteButton.png" alt="Site" />
 
 <!---
 Coniferr/Coniferr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
