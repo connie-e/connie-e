@@ -1,9 +1,13 @@
-
-![Welcome to my Profile](https://github.com/Coniferr/Coniferr/blob/main/Logo%20copy.png)
-
 # Conifer
 
-- Hi, I’m @Coniferr
+# About
+
+I am Conifer/Connie I am a web designer from Pittsburgh, PA.
+
+I am currently in High School.
+
+#Links
+
 
 <!---
 Coniferr/Coniferr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
