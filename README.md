@@ -3,9 +3,4 @@
 
 I am Conifer/Connie I am a web designer from Pittsburgh, PA and I am currently in High School,
 
-<img src="TwitButton.png" alt="Twitter" href="https://twitter.com/Conifer_r" /> <img src="SiteButton.png" alt="Site" />
-
-<!---
-Coniferr/Coniferr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XSbZidsgMfw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
