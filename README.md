@@ -1,13 +1,8 @@
-# Conifer
+<img src="cinnamon.png" alt="Logo" title="Logo" align="right" width="200" height="200" />
 
-# About
+# I'm Conifer
 
-I am Conifer/Connie I am a web designer from Pittsburgh, PA.
-
-I am currently in High School.
-
-# Links
-
+I am Conifer/Connie I am a web designer from Pittsburgh, PA and I am currently in High School,
 
 <!---
 Coniferr/Coniferr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
