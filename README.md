@@ -1,4 +1,4 @@
-<img src="PenLogo.png" alt="Logo" title="Logo" align="right" />
+<img src="PenLogo.png" alt="Logo" title="Logo" align="right" image-rendering="pixelated" />
 
 # I'm Conifer
 
