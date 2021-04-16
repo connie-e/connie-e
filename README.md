@@ -1,5 +1,7 @@
+
+![Conifer](https://github.com/Coniferr/Coniferr/blob/main/logo.png)
+
 - Hi, I’m @Coniferr
-- I like Ramen
 
 <!---
 Coniferr/Coniferr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
