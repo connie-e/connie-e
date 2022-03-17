@@ -1,7 +1,7 @@
 
-# I'm Conifer
+# Hello, I'm Connie
 
-I am Conifer/Connie I am a web designer from Pittsburgh, PA.
+I'm Connie I might make a website or two can never really tell with me.
 
 [![](TwitButton.png)](https://twitter.com/Conifer_r "")
 [![](SiteButton.png)](https://twitter.com/Conifer_r "")
