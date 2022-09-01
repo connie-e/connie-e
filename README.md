@@ -1,8 +1,4 @@
 
-# Hello, I'm Connie 
+## Connie Leo (She/Her)
 
-I'm Connie I might make a website or two can never really tell with me.
-
-Check out my 
-<a href="https://coniferr.github.io/">🔗WEBSITE</a>
-to find out more about me. (Or Don't)
+I'm  a frontend developer who works with **HTML** & **CSS**. Prepare to hear me complain a lot about design and UX.
