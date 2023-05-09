@@ -1,11 +1,17 @@
+## A Little About Me 💫
+I'm Connie a Trans Woman from Pittsburgh, PA and I make websites.
+<br>
+Currently I'm expanding my knowledge of design and front-end development.
 
-# Connie Leo (She/Her :transgender_flag::rainbow_flag:)
+## Current Projects 💾
+- [Personal Website](https://connie-e.github.io) - My most active web project while also being my first.
+- [VGUI Web](https://www.example.com) - Mostly dormant web project.
 
-I'm  a frontend developer who works with **HTML** & **CSS**.  
-I'm currently working on personal web projects. I also dabble in design sometimes.
+## Applications I Use 👩‍💻
+- [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - I currently use this on Mac as it's a native app with everything I need.
+- [Figma](https://www.figma.com) - This is my go to vector graphics application due to it's feature set and intuitive UI.
+- [VS Code](https://code.visualstudio.com) - What I use on Windows for all my web projects.
+- [PDN](https://www.getpaint.net) - This isn't the best or greatest image editor but it gets the job done when it needs to.
 
-Check out my [**Personal Site**](https://coniferr.github.io/)
-
-## Tools :hammer_and_wrench:
-
-I  use VSCode and PDN for most of my  work.
+## How To Get In Contact or Learn More 🎙️
+[Personal Website](https://connie-e.github.io) - This has all the extra information about me like methods of contact or computers I own.
